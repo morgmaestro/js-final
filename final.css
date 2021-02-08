@@ -1,0 +1,176 @@
+* {
+    margin: 0 auto;
+}
+
+main {
+    padding: 10px;
+    margin: 0;
+}
+
+h1, p {
+    text-align: center;
+}
+
+.abacus {
+    display: block;
+    position: relative;
+    width: 1000px;
+    height: 500px;
+    border-left: 20px solid brown;
+    border-right: 20px solid brown;
+    top: 50px;
+}
+
+.row-1 {
+    position: absolute;
+    top: 0px;
+}
+
+.row-2 {
+    position: absolute;
+    top: 50px;
+}
+
+.row-3 {
+    position: absolute;
+    top: 100px
+}
+
+.row-4 {
+    position: absolute;
+    top: 150px;
+}
+
+.row-5 {
+    position: absolute;
+    top: 200px;
+}
+
+.row-6 {
+    position: absolute;
+    top: 250px
+}
+
+.row-7 {
+    position: absolute;
+    top: 300px;
+}
+
+.row-8 {
+    position: absolute;
+    top: 350px;
+}
+
+.row-9 {
+    position: absolute;
+    top: 400px
+}
+
+.row-10 {
+    position: absolute;
+    top: 450px
+}
+
+.string {
+    position: absolute;
+    z-index: 0;
+    width: 100%;
+    height: 10px;
+    background-color: brown;
+}
+
+.string-1 {
+    top: 20px;
+}
+
+.string-2 {
+    top: 70px;
+}
+
+.string-3 {
+    top: 120px;
+}
+
+.string-4 {
+    top: 170px;
+}
+
+.string-5 {
+    top: 220px;
+}
+
+.string-6 {
+    top: 270px;
+}
+
+.string-7 {
+    top: 320px;
+}
+
+.string-8 {
+    top: 370px;
+}
+
+.string-9 {
+    top: 420px;
+}
+
+.string-10 {
+    top: 470px;
+}
+
+.bead {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.bead-1 {
+    background-color: red;
+}
+
+.bead-2 {
+    background-color: orangered;
+    left: 50px;
+}
+
+.bead-3 {
+    background-color: orange;
+    left: 100px;
+}
+
+.bead-4 {
+    background-color: yellow;
+    left: 150px;
+}
+
+.bead-5 {
+    background-color: lightgreen;
+    left: 200px;
+}
+
+.bead-6 {
+    background-color: green;
+    left: 250px;
+}
+
+.bead-7 {
+    background-color: lightblue;
+    left: 300px;
+}
+
+.bead-8 {
+    background-color: blue;
+    left: 350px;
+}
+
+.bead-9 {
+    background-color: purple;
+    left: 400px;
+}
+
+.bead-10 {
+    background-color: violet;
+    left: 450px;
+}
